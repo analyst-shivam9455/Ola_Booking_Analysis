@@ -2,6 +2,8 @@
 
 This repository contains an interactive Power BI dashboard that provides insights into Ola ride data, covering key metrics such as ride trends, revenue generation, customer behavior, and vehicle performance.
 
+### Link To Dash board is here :- https://app.powerbi.com/groups/me/reports/c4500613-a6fe-4879-80c7-cf82ba1cd5dd/b1ac134a2c09c8c60c56?experience=power-bi
+
 ### Overview
 
 The Ola Rides Dashboard analyzes ride booking trends over a specified period (July 2024), helping stakeholders optimize operations and improve the overall ride-hailing experience.
